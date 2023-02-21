@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM,MAAM,IAAM;IACjB,QAAQ,GAAG,CAAC;AACb;AACA","sources":["js/index.js"],"sourcesContent":["const run = () => {\r\n\tconsole.log('Hi there');\r\n};\r\nrun();\r\n"],"names":[],"version":3,"file":"index.9345d665.js.map","sourceRoot":"/__parcel_source_root/"}
